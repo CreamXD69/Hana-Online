@@ -1,0 +1,29 @@
+h1 {
+    color: tomato;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 50px;
+}
+h2 {
+    color: tomato;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 50px;
+}
+body {
+    text-align: center;
+    max-width: 100%;
+    height: auto;
+    background-image: url("./what/21593.jpg");
+}
+button {
+    text-align: left;
+    color: white;
+    background-color: #DA251C;
+    padding: 15px 32px;
+    font-size: 25px;
+    margin: 10px 2px;
+    cursor: pointer;
+    height: auto;
+    text-align: center; /* This is Fucking too long / ยาวไปละไอสัส */
+  }
